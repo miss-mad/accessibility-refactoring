@@ -20,7 +20,7 @@ https://miss-mad.github.io/accessibility-refactoring/
 
 ## Installation
 
-No installation needed.
+No installation necessary.
 
 ## Usage
 
