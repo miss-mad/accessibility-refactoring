@@ -26,28 +26,15 @@ No installation needed.
 
 Below are screenshots of the Horiseon webpage. Visually, it will look very similar, but additional accessible measures have been integrated.
 
-    ```md
-    ![Horiseon screenshot 1](./assets/images/Horiseon_screenshot_1.JPG)
-    ```
-
-    ```md
-    ![Horiseon screenshot 2](./assets/images/Horiseon_screenshot_2.JPG)
-    ```
-
-    ```md
-    ![Horiseon screenshot 3](./assets/images/Horiseon_screenshot_3.JPG)
-    ```
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Horiseon screenshot 1](./assets/images/Horiseon_screenshot_1.JPG)
+![Horiseon screenshot 2](./assets/images/Horiseon_screenshot_2.JPG)
+![Horiseon screenshot 3](./assets/images/Horiseon_screenshot_3.JPG)
 
 ## Credits
 
 Collaborators:
 
+Mac Greene (fellow bootcamper; github page unknown)
 
 List of resources used:
 
